@@ -18,7 +18,7 @@
   <img align="center" alt="Dan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Dan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Dan" src="https://i.picasion.com/pic91/41e477ef4f015ffa151262ec29818bf0.gif">
+  <img align="right" alt="Dan" src="https://i.picasion.com/pic91/75dd6681bc9829e1718f3cfac4fae782.gif">
 </div>
 
   ##
