@@ -1,4 +1,4 @@
-### óla! Eu sou o Daniel Soares
+### Ola! Eu sou o Daniel Soares
 
 - 🔭  Hoje trabalho com front-end
 - 🌱  Estudando typescript, react e react native
